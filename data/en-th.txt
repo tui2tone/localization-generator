@@ -1,0 +1,61 @@
+Sign In | เข้าสู่ระบบ
+Sign Out | ออกจากระบบ
+Log In | เข้าสู่ระบบ
+Log Out | ออกจากระบบ
+Register | สมัครสมาชิก
+User | ผู้ใช้
+Username | ผู้ใช้
+Password | รหัสผ่าน
+Email | อีเมล
+Phone | เบอร์โทรศัพท์
+Tel | เบอร์โทรศัพท์
+Address | ที่อยู่
+Birth Day | วันเกิด
+Birth Date | วันเกิด
+Day | วัน
+Month | เดือน
+Year | ปี
+Customer | ลูกค้า
+Home | หน้าแรก
+More | ดูต่อ
+View More | ดูต่อ
+Read | อ่าน
+Read More | อ่านต่อ
+Province | จังหวัด
+City | เมือง
+Avatar | รูปโปรไฟล์
+Profile | ข้อมูลส่วนตัว
+First Name | ชื่อ
+Last Name | นามสกุล
+Submit | ส่ง
+Confirm | ยืนยัน
+Ok | ตกลง
+Cancel | ยกเลิก
+Create | สร้าง
+New | สร้าง
+Setting | ตั้งค่า
+Done | เสร็จสิ้น
+Confirmation | ยืนยัน
+Info | ข้อมูล
+Search | ค้นหา
+Result | ผลลัพธ์
+Issue | ปัญหา
+Market | ตลาด
+Date | วันที่
+Filter | ตัวกรอง
+All | ทั้งหมด
+Normal | ปกติ
+Description | รายละเอียด
+Type | ประเภท
+Customer | ลูกค้า
+Note | บันทึก
+Save | บันทึก
+Remove | ลบ
+Delete | ลบ
+Post Code | รหัสไปรษณีย์
+Role | ระดับ
+Add | เพิ่ม
+Edit | แก้ไข
+Close | ปิด
+Approve | ยืนยัน
+Reject | ยกเลิก
